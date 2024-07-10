@@ -2,7 +2,7 @@
 
 1) This repo contains linux terminal commands from the course Top 50 Linux commands on Free Code Camp
 
-2) THe link to the course is  [text](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=2354s)
+2) THe link to the course is  [Top 50 Linux commands Free Code Camp](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=2354s)
 
 3) All commands have been run in Jupyter Notebook instead of terminal to preserve the outputs
 
@@ -19,4 +19,4 @@
 9) The only file required is fcc-linux-50-commands_1 . All other files are supporting files
     
 
-10) A short explanation of the command is given in the cell itself while information on the flags is given on the top. The descriptio of thes have been taken from copilot and Chat GPT
+10) A short explanation of the command is given in the cell itself while information on the flags is given on the top. The description of thes have been taken from Copilot and Chat GPT
